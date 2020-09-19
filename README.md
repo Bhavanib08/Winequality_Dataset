@@ -10,13 +10,13 @@ Two datasets were combined and few values were randomly removed.
 
 ### Attribute Information:
 
-For more information, read [Cortez et al., 2009].
-Input variables (based on physicochemical tests):
-1 - fixed acidity
-2 - volatile acidity
-3 - citric acid
-4 - residual sugar
-5 - chlorides
+For more information, read [Cortez et al., 2009].  
+Input variables (based on physicochemical tests):  
+1 - fixed acidity  
+2 - volatile acidity  
+3 - citric acid  
+4 - residual sugar  
+5 - chlorides  
 6 - free sulfur dioxide
 7 - total sulfur dioxide
 8 - density
