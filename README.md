@@ -32,4 +32,10 @@ P. Cortez, A. Cerdeira, F. Almeida, T. Matos and J. Reis.
 Modeling wine preferences by data mining from physicochemical properties. In Decision Support Systems, Elsevier, 47(4):547-553, 2009.
 
 ## Analysis:
-As part of the project
+s part of the project the following was performed:
+-Effect of different normalizations on the dataset   
+-Classification of data using KNN Classification  
+-Feature extraction using PCA  
+-Feature extraction using LDA  
+-Correlation between features was plotted using a heatmap  
+-Non-linear Dimensionality Reduction using Kernel PCA, Isomap, LLE,Laplacian Eigenmap, t-SNE and comparision was done  
